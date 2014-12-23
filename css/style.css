@@ -106,7 +106,7 @@
 	
 		a:hover
 		{
-			color: #ef8376;
+			color: #DD2634;
 			border-bottom-color: transparent;
 		}
 
@@ -402,7 +402,7 @@
 					
 						ul.icons li a:hover
 						{
-							color: #ef8376;
+							color: red;
 						}
 		
 		ol
